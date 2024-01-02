@@ -1,4 +1,6 @@
 Developed by:PREETHI S
+
+
 Reference no:23008250
 # Exp-6-Synchornous-counters - up counter and down counter 
 ### AIM: To implement 4 bit up and down counters and validate  functionality.
